@@ -1,1 +1,1 @@
-# Git-Progate
+# Belajar git lewat Progate :)
